@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+modelos/*.onnx
+modelos/*.data
+relatorios/*
+!modelos/.gitkeep
+!relatorios/.gitkeep
+agroia_erros.log
